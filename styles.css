@@ -103,7 +103,7 @@ hr {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 15px;
   padding: 10px 20px 10px 20px;
@@ -133,6 +133,7 @@ hr {
   margin-bottom: 0;
   color: #EAF6F6;
   margin-top: 30px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .keen{
@@ -143,4 +144,5 @@ hr {
   text-decoration: none;
   margin: 50px 50px 0px 0px;
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
 }
